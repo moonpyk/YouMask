@@ -1,6 +1,6 @@
 ﻿# YouMask
 
-A simple *NIX mask calculator for Windows. 
+A simple *NIX permissions mask calculator for Windows. 
 
 Getting the right octal mask for permissions on any *NIX system was always annoying for me, I decided to write a 
 simple calculator to get immediately a visual representation from a mask and be able to create a mask with a few checkboxes clicks.
